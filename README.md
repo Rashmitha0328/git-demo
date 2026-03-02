@@ -1,2 +1,2 @@
 # git-demo
-Author-Rashmitha 
+Apna College
